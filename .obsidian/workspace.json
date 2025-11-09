@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "1c8bfce1da43da19",
+    "type": "split",
+    "children": [
+      {
+        "id": "89839b038fb3e00f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "162ef9d0818dad2b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13fdcff55f650e84",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8bdcb3fcc369697",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbe94b5009dbbc0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "ca2fa1abbd458478",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "4b43187fd5245305",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "right": {
+    "id": "bb1623ffb93bbeb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebcd9a1d5262d5ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b229eb918792938b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ретро 01.11.2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Ретро 01.11.2025"
+            }
+          },
+          {
+            "id": "c8f3f58e481e440b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ретро 01.11.2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Ретро 01.11.2025"
+            }
+          },
+          {
+            "id": "b7a60d8a2da97b59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "6142cd4b7f173215",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ретро 01.11.2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Ретро 01.11.2025"
+            }
+          },
+          {
+            "id": "920af17cdb3acba9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fbe94b5009dbbc0c",
+  "lastOpenFiles": [
+    "NET-Interview-Prep/03-Топ-50.md",
+    "NET-Interview-Prep/02-Middle-Вопросы.md",
+    "NET-Interview-Prep/Junior Developer.md",
+    "NET-Interview-Prep/01-Junior-Вопросы.md",
+    "Ретро 01.11.2025.md",
+    "NET-Interview-Prep/00-Главная.md",
+    "NET-Interview-Prep/Темы/Темы-NET-Framework.md",
+    "NET-Interview-Prep/Middle Developer.md",
+    "NET-Interview-Prep/Темы/Темы-SQL.md",
+    "NET-Interview-Prep/Темы/Темы-Паттерны.md",
+    "NET-Interview-Prep/Темы/Темы-ООП.md",
+    "NET-Interview-Prep/Темы/Темы-Многопоточность.md",
+    "NET-Interview-Prep/Темы/Темы-Коллекции.md",
+    "NET-Interview-Prep/Практика/Практические-задачи.md",
+    "NET-Interview-Prep/Практика/Код-примеры.md",
+    "NET-Interview-Prep/Заметки/Ежедневный-прогресс.md",
+    "Middle.md",
+    "NET-Interview-Prep/Заметки",
+    "NET-Interview-Prep/Практика",
+    "NET-Interview-Prep/Темы",
+    "NET-Interview-Prep/00-Главная",
+    "NET-Interview-Prep",
+    "Без названия.base",
+    "Без названия.canvas",
+    "создайте ссылку.md",
+    "Добро пожаловать.md",
+    "2025-11-01.md"
+  ]
+}
