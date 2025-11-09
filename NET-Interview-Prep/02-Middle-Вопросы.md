@@ -179,7 +179,7 @@ finally
 
 Через механизмы:
 
-- `lock`, `Monitor`, `Mutex`, `Semaphore`, `ReaderWriterLockSlim`,
+- `lock`,  `Monitor`, `Mutex`, `Semaphore`, `ReaderWriterLockSlim`,
     
 - атомарные операции (`Interlocked`),
     
